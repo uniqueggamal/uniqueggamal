@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi, I'm Unique
 
+I'm a Bachelor of Information Management (BIM) student at **NCCS (National College of Computer Studies)**, affiliated with **Tribhuvan University, Nepal**.
+
+I'm interested in **software development, particularly Python, Flutter, web applications, and applied machine learning**.
 <!--
 **uniqueggamal/uniqueggamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
